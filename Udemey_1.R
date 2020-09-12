@@ -8,3 +8,5 @@ student.height <- c(101, 122, 103)
 
 ##now I can ask for the mean of the vector student.height
 mean(student.height)
+
+##
